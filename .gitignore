@@ -1,0 +1,4 @@
+node_modules/
+package.json
+inventario.db
+package-lock.json
